@@ -77,3 +77,5 @@ for (let index = 0; index < exponente; index++) {
 }console.log(acumulador);
 
 // consultar 4 ejercicio
+
+console.log(Math.pow(base,exponente))
